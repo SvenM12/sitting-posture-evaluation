@@ -11,3 +11,5 @@ runs/
 results/
 
 .ipynb_checkpoints/
+
+tests/posture_output/
