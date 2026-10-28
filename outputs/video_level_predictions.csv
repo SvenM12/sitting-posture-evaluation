@@ -1,0 +1,4 @@
+video_id,true_label,predicted_label,frames,correct
+webcam__side_lean_forward,leaning_forward,leaning_forward,450,True
+webcam__side_normal,neutral,neutral,450,True
+webcam__side_slouch,slouching,slouching,450,True

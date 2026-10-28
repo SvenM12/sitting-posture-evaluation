@@ -13,3 +13,15 @@ results/
 .ipynb_checkpoints/
 
 tests/posture_output/
+
+sliced phone/
+
+sliced webcam/
+
+phone videos/
+
+posture_output/
+
+webcam videos/
+
+posture_pipeline.ipynb
